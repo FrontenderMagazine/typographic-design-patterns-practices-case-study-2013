@@ -270,7 +270,7 @@ As we mentioned at the beginning, the second article in this series will deal wi
 [19]: http://www.economist.com/
 [20]: http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/
 [21]: https://developers.google.com/fonts/docs/webfont_loader
-[22]: 
+[22]: http://www.besquare.me/session/responsive-web-fonts/
 [23]: https://docs.google.com/spreadsheet/ccc?key=0Atqua-tBbLCAdHVsTG1iazU4aXZWS1J6OE5hYUJvNEE#gid=1
 
 [Diagram serif vs. sans-serif in headings]: img/Headings_serif_-sans1.png
