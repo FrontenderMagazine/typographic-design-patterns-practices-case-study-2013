@@ -142,12 +142,15 @@ Leading (or `line-height` in CSS) will always depend on your font size and measu
 This latest study reveals the following:
 
 * **line height (pixels) ÷ body copy font size (pixels) = 1.46**
+
 Classic typography books recommend 1.5, a value backed up by this and our last study. Very few websites use anything less than that. The number of websites that go above 1.48 decreases as you get further from this value.
 
 * **line length (pixels) ÷ line height (pixels) = 24.9**
+
 The average line length (570 pixels, excluding margins and padding) has grown comparatively less than font size and line height have since 2009 (the latter averaging 22.9 pixels). The average line lengthened by approximatively 5% (from 538,64 pixels in 2009), while the average line height has increased from 12 pixels in 2009 to 13 pixels in 2013.
 
 * **space between paragraphs (pixels) ÷ line height (pixels) = 1.39**
+
 In the first study, it turned out that paragraph spacing (i.e. the space between the last line of one paragraph and the first line of the next) rarely equaled the leading (which would be the main characteristic of a perfect vertical rhythm). According to our results, paragraph spacing is around 1.39 × the paragraph leading. Paragraphs are more clearly delineated with this increased ratio, thus increasing readability.
 
 Multiplying the value of your body’s font size by 1.46 would give you the optimal line height, which you could then adapt to your font style. Multiplying this new value by 24.9 should give you the optimal line length. Note that the layout would also need gutters, margins and padding to let the body copy breathe.
